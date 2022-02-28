@@ -1,4 +1,3 @@
-#!/usr/bin/perl
 use IO::Socket::INET;
 $| = 1;
 my $socket = new IO::Socket::INET();
